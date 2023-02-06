@@ -1,4 +1,9 @@
-# Trump Campaign Corpus
+# Textual Analysis
+
+The scripts of my assignments in Applied Texutal Analysis. Below is the discription of our final project regarding to Trump election campaign. We investigated if he changed his speech in different states. It turns out he did. In some states, he mentioned Hillary more frequently while in others, he emphasized immigration policy. 
+
+
+Description: Trump Campaign Corpus
 
 The Trump Campaign Corpus consists of Donald Trump's speeches, interviews, debates, town halls, press conferences, written statements and tweets. It covers the period from the announcement of his candidacy on June 16, 2015 through Election Day, November 8, 2016. So far, we've gathered all or part of over 1k communications on top of 4.4k tweets. Together, they represent nearly 3m Trump words as well as 1m words from interviewers and debate opponents. All transcript are human-made, though style and quality varies.
 
