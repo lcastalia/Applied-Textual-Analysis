@@ -3,10 +3,10 @@
 The scripts of my assignments in Applied Texutal Analysis.
 
 ## Final project: Construct a sentiment dictionary targeted at newspaper articles
-code file:432Final.R
-project report:
+code file: 432Final.R
+project report: Report.pdf
 
-##Group Assignment 1:Constructing a portfolio tracking oil firms
+## Group Assignment 1:Constructing a portfolio tracking oil firms
 code file: code_group8.r
 project report:Group8.docx
 
